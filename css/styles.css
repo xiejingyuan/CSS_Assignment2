@@ -28,6 +28,7 @@ header {
 .tag {
     font-size: 25px;
     cursor: pointer;
+    font-weight: bolder;
 }
 
 .tag:hover {
@@ -122,6 +123,7 @@ footer {
     align-items: center;
     justify-content: space-evenly;
     padding: 20px;
+    background-color: antiquewhite;
 }
 
 
